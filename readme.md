@@ -15,10 +15,10 @@ This project consists in predicting the price of a house with previously provide
 The provided dataset gathers information on 22.000 properties.
 
 ## Timeline
-monday: EDA
-tuesday : plotting
-wednesday : training and testing sets
-thursday: validating results
-friday: final presentation
+- monday: EDA, plotting
+- tuesday : data transformation,  training and testing sets
+- wednesday : x-y split, categorical transformation, linear regression, etc
+- thursday: validating results, presentation prep
+- friday: final presentation
 
 
